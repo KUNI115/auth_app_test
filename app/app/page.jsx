@@ -1,8 +1,11 @@
+
 import Sidevar from "./components/Sidevar";
 import Topvar from "./components/Topvar";
 
 
 export default function Home() {
+
+  
   return (
     <div className='flex-col static'>
         <Topvar/>
